@@ -2,7 +2,7 @@
 
 This project is a browser-based virtual assistant that uses speech recognition and speech synthesis to interact with users. It listens to voice commands, processes them, and performs tasks such as:
 
-# Greeting the User: Based on the time of day (morning, afternoon, or evening).
+## Greeting the User: Based on the time of day (morning, afternoon, or evening).
 
 Executing Commands: Opens websites like YouTube, Google, Facebook, or Instagram on request.
 
